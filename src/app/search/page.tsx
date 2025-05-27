@@ -11,7 +11,7 @@ const page = () => {
         <ul className="list-disc pl-5">
           <li>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum,
-            nam similique? Culpa enim eligendi quasi.
+            nam similique? Culpa enim eligendi quasii.
           </li>
           <li>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum,
