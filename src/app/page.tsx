@@ -1,6 +1,6 @@
-import QuickSearch from "@/components/shared/QuickSearch";
-import PopupButton from "@/components/shared/PopupBtn";
-import { FaUser, FaCog, FaEnvelope } from "react-icons/fa";
+// import QuickSearch from "@/components/shared/QuickSearch";
+// import PopupButton from "@/components/shared/PopupBtn";
+// import { FaUser, FaCog, FaEnvelope } from "react-icons/fa";
 import InteractiveMap from "@/components/ui/InteractiveMap";
 
 export default function Home() {

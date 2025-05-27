@@ -1,7 +1,7 @@
 import React from "react";
 import PagesHeading from "@/components/layout/PagesHeading";
-import Image from "next/image";
-import Link from "next/link";
+// import Image from "next/image";
+// import Link from "next/link";
 
 const page = () => {
   return (
