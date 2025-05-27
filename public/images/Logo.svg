@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="318" height="91.425" viewBox="0 0 318 91.425">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="318" height="91.425" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" transform="translate(0 0)">
+    <g id="Group_5" data-name="Group 5" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Path_101" data-name="Path 101" d="M78.709,27.778l-4.884-1.807a6.732,6.732,0,0,1-4-4l-1.807-4.884a6.772,6.772,0,0,0-12.705,0L53.51,21.976a6.755,6.755,0,0,1-4.009,4l-4.87,1.807a6.772,6.772,0,0,0,0,12.705l4.87,1.807A6.778,6.778,0,0,1,53.51,46.3l1.807,4.884a6.778,6.778,0,0,0,12.705,0L69.83,46.3a6.755,6.755,0,0,1,4-4.009l4.884-1.807a6.772,6.772,0,0,0,0-12.705M61.67,41.246a7.108,7.108,0,1,1,7.115-7.115,7.121,7.121,0,0,1-7.115,7.115" transform="translate(16.552 5.214)"/>
+      <path id="Path_102" data-name="Path 102" d="M78.222,1.411a37.407,37.407,0,0,0-34.9,24.055c-6.437,9.585-13.171,6.776-15.853,5.04-.38-.309-.786-.6-1.194-.887l-.02-.017h0a23.839,23.839,0,0,0-12.717-4.378,13.545,13.545,0,0,0,0,27.091,22.032,22.032,0,0,0,8.851-2.16H22.4A22.633,22.633,0,0,0,24.789,48.9a.572.572,0,0,0,.127-.071.843.843,0,0,1,.155-.085c8.541-5.336,15.5.889,19.411,6.042A37.353,37.353,0,1,0,78.222,1.411m0,70.486a33.126,33.126,0,1,1,33.119-33.133A33.161,33.161,0,0,1,78.222,71.9" transform="translate(0 0.581)" fill="#2a79a5"/>
+      <path id="Path_103" data-name="Path 103" d="M18.256,35.051a13.676,13.676,0,0,1-2.386,1.256,22.633,22.633,0,0,0,2.386-1.256" transform="translate(6.534 14.43)"/>
+      <text id="BILDKULTUREN" transform="translate(122.176 19.591)" fill="#2a79a5" font-size="23" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">BILDKULTUREN</tspan></text>
+      <text id="OKOLOGISCHER" transform="translate(127.89 47.983)" font-size="23" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">OKOLOGISCHER</tspan></text>
+      <text id="FORSCHUNG" transform="translate(124.024 76.087)" font-size="23" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">FORSCHUNG</tspan></text>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="3.059" height="3.059" transform="translate(138.752 26.748)"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="3.059" height="3.059" transform="translate(132.136 26.748)"/>
+    </g>
+  </g>
+</svg>
