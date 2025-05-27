@@ -42,7 +42,7 @@ const Sidebar = () => {
 
   return (
     <aside className="w-64 bg-white p-4 overflow-y-auto">
-      <nav className="bg-gray-100 dark:bg-zinc-800 h-full rounded-md p-4 flex flex-col justify-between">
+      <nav className="bg-slate-100 dark:bg-zinc-800 h-full rounded-md p-4 flex flex-col justify-between">
         <div>
           <Image
           alt="logo"

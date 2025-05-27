@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <div className="flex gap-2 justify-between bg-gray-100 p-2 rounded-md sticky top-0">
+    <div className="flex gap-2 justify-between bg-slate-100 p-2 rounded-md sticky top-0">
       <QuickSearch />
       <div className="flex gap-2">
         <Link
